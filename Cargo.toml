@@ -12,6 +12,6 @@ name = "sk_editor"
 path = "src/sk_editor.rs"
 
 [dependencies]
-eframe = "0.27.1"
+eframe = "0.27.2"
 image = "0.25.1"
 libc = "0.2.155"
